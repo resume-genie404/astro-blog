@@ -11,7 +11,7 @@ tags: ["moon sign", "nakshatra", "janma rasi", "beginner astrology", "kundli mat
 
 # ☾ Moon Sign and Nakshatra: The Two Details That Shape a Match
 
-![Night sky with moon and stars](/images/blog/moon-sign-nakshatra-hero.jpg)
+![Night sky with moon and stars](https://images.unsplash.com/photo-1516410290616-fb59b7994a51?fm=jpg&q=80&w=1600&auto=format&fit=crop)
 
 If you've ever had a family elder ask "what's your Rasi?" before diving into a Kundli match, they were really asking about your Moon sign. It's one of the first two details any Vedic astrologer needs, alongside your Nakshatra. Here's what they actually mean, and why they matter more than your Sun sign for matching purposes.
 
